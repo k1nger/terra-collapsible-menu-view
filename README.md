@@ -1,22 +1,22 @@
-# Terra Action Header
+# Terra Collapsible Menu View
 
 
-[![NPM version](http://img.shields.io/npm/v/terra-action-header.svg)](https://www.npmjs.org/package/terra-action-header)
+[![NPM version](http://img.shields.io/npm/v/terra-collapsible-menu-view.svg)](https://www.npmjs.org/package/terra-collapsible-menu-view)
 [![Build Status](https://travis-ci.org/cerner/terra-core.svg?branch=master)](https://travis-ci.org/cerner/terra-core)
 
-The terra-action-header component is a header bar containing a title and optional actionable items such as links and buttons.
+The collapsible menu view is a mechanism that can be used in toolbar scenarios where actionable items will be displayed face-up and flex based on the space available. Any items that can not fit in the available space will be rolled into an ellipsis menu.
 
 - [Getting Started](#getting-started)
-- [Documentation](https://github.com/cerner/terra-core/tree/master/packages/terra-action-header/docs)
+- [Documentation](https://github.com/cerner/terra-core/tree/master/packages/terra-collapsible-menu-view/docs)
 - [LICENSE](#license)
 
 ## Getting Started
 
-- Install from [npmjs](https://www.npmjs.com): `npm install terra-action-header`
+- Install from [npmjs](https://www.npmjs.com): `npm install terra-collapsible-menu-view`
 
 ## LICENSE
 
-Copyright 2018 Cerner Innovation, Inc.
+Copyright 2017 Cerner Innovation, Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 

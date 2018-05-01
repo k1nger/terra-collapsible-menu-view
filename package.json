@@ -35,7 +35,7 @@
     "terra-form": "^2.6.0",
     "terra-icon": "^2.6.0",
     "terra-list": "^2.7.0",
-    "terra-menu": "^2.7.0"
+    "terra-menu": "git://github.com/k1nger/terra-menu.git"
   },
   "scripts": {
     "compile": "npm run compile:clean && npm run compile:build",
